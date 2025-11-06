@@ -1,0 +1,6 @@
+Flask
+gunicorn
+google-generativeai
+requests
+google-cloud-firestore
+flask-cors
