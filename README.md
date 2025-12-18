@@ -11,7 +11,7 @@
 A Python Flask backend service that finds demographic "doppelgangers" for US ZIP codes. This service fetches census data from the US Census Bureau API, analyzes it using Google's Gemini AI, and identifies similar ZIP codes with matching demographic profiles.
 
 > **Part of the Demographic Doppelgänger Project**  
-> 🌐 [Live Application](https://demographic-doppelganger-71027948544.us-west1.run.app/) | [Frontend Repository](https://github.com/ChrisMahlke/doppelganger) | [API Gateway Spec](https://github.com/ChrisMahlke/api-gateway-spec)
+> DISABLED | [Frontend Repository](https://github.com/ChrisMahlke/doppelganger) | [API Gateway Spec](https://github.com/ChrisMahlke/api-gateway-spec)
 
 ## Architecture
 
@@ -284,7 +284,7 @@ The service handles CORS requests:
 
 This service is part of the **Demographic Doppelgänger** project:
 
-- 🌐 **Live Application**: [https://demographic-doppelganger-71027948544.us-west1.run.app/](https://demographic-doppelganger-71027948544.us-west1.run.app/)
+- 🌐 **Live Application**: DISABLED
 - 🎨 **Frontend Repository**: [doppelganger](https://github.com/ChrisMahlke/doppelganger) - React/TypeScript frontend
 - 🚪 **API Gateway Specification**: [api-gateway-spec](https://github.com/ChrisMahlke/api-gateway-spec) - OpenAPI 2.0 spec for the gateway
 - 🔧 **Node.js API** (Deprecated): [doppelganger-api](https://github.com/ChrisMahlke/doppelganger-api) - Legacy Node.js gateway service
